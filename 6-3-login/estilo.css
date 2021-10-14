@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+form {
+    color: white;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 500px;
+}
+
+h1 {
+    color: red;
+    font-size:50px;
+    padding-left: 40px;
+}
