@@ -1,0 +1,18 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+h1, h2, h3{
+    color:purple;
+}
+
+p{
+    color: white;
+}
+
+button{
+    color: white;
+}
+
