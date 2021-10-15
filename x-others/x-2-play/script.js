@@ -28,15 +28,13 @@ function mudarPergunta(){
             document.getElementById("r1").innerHTML = "1) Descansa";
             document.getElementById("r2").innerHTML = "2) Continua";
             break;
+        /*    
         case "2) Alimento o urso com suprimentos":
             document.getElementById("p").innerHTML = "Você avistou um urso";
             document.getElementById("r1").innerHTML = "1) Corro rápido na direção Norte";
             document.getElementById("r2").innerHTML = "2) Alimento o urso com suprimentos";
             break;
+            */
         
-
-
-
-
     }
 }
