@@ -1,2 +1,3 @@
 # WebZero
- HTML5, CSS3 and Javascript based on my university classes.
+
+HTML5, CSS3 and Javascript based on my university classes.

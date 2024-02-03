@@ -1,17 +1,17 @@
 var resposta;
 
-function r1(){
+function r1() {
     resposta = document.getElementById("r1").innerHTML;
     mudarPergunta();
 }
 
-function r2(){
+function r2() {
     resposta =  document.getElementById("r2").innerHTML;
     mudarPergunta();
 }
 
-function mudarPergunta(){
-    switch(resposta){
+function mudarPergunta() {
+    switch(resposta) {
         case "1) Caminho da floresta":
             document.getElementById("p").innerHTML = "Você avistou um urso";
             document.getElementById("r1").innerHTML = "1) Corro rápido na direção Norte";
@@ -29,12 +29,12 @@ function mudarPergunta(){
             document.getElementById("r2").innerHTML = "2) Continua";
             break;
         /*    
-        case "2) Alimento o urso com suprimentos":
+        case "2) Alimento o urso com suprimentos e ele parece amigável comendo":
             document.getElementById("p").innerHTML = "Você avistou um urso";
-            document.getElementById("r1").innerHTML = "1) Corro rápido na direção Norte";
-            document.getElementById("r2").innerHTML = "2) Alimento o urso com suprimentos";
+            document.getElementById("r1").innerHTML = "1) Eu continuo perto";
+            document.getElementById("r2").innerHTML = "2) Aproveito para fugir";
             break;
-            */
+        */
         
     }
 }

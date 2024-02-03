@@ -1,3 +1,3 @@
-function exibir(){
+function exibir() {
     alert("script linkado");
 }
